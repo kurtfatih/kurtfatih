@@ -5,8 +5,6 @@
 - :toolbox: I have been shaping the apps, professionally, for  3  years.
   - 💻 **OS**: MacOS / M1 Macbook.
   - 🗒️ **Text Editor**: VIM + VSCode.
-    - ❓ **Why do I use VIM**? [Here is the answer](https://dev.to/snikhill/one-doesn-t-simply-exit-vim-jmo).
-
 
 ## My Presence on the World Wide Web
 
