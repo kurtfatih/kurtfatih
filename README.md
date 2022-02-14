@@ -9,7 +9,7 @@
 ## My Presence on the World Wide Web
 
 - [@YouTube](https://www.youtube.com/channel/UCDyFIpOt_mOYvT_scc1MzcQ)
-- [@email](mailto:fatihkurt387@gmail.com)
+- [@Email](mailto:fatihkurt387@gmail.com)
 - [@LinkedIn](https://www.linkedin.com/in/fatih-kurt-55573a197/)
 
 #### Quote
