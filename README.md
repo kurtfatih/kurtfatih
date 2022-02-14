@@ -1,6 +1,6 @@
 ### Greetings! I am Fatih Kurt 21 y.o 👋 
 
-**I am a Full-Stack cross-platform app developer 👨🏻‍,React.js & Node.js  & GraphQL Enthusiast (Typescript preferred). 
+**I am a Full-Stack (mobile/web) app developer 👨🏻‍ React.js & Node.js  & GraphQL Enthusiast (Typescript preferred). 
 
 - :toolbox: I have been shaping the apps, professionally, for  3  years.
   - 💻 **OS**: MacOS / M1 Macbook.
@@ -10,7 +10,7 @@
 
 - [@YouTube](https://www.youtube.com/channel/UCDyFIpOt_mOYvT_scc1MzcQ)
 - [@Email](mailto:fatihkurt387@gmail.com)
-- [@LinkedIn](https://www.linkedin.com/in/fatih-kurt-55573a197/)
+- [@LinkedIn](https://www.linkedin.com/in/fatih-kurt387/)
 
 #### Quote
 
