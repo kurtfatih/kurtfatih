@@ -1,4 +1,4 @@
-### Greetings! I am Fatih Kurt 👋🏻 
+### Greetings! I am Fatih Kurt 21 y.o 👋 
 
 **I am a Full-Stack cross-platform app developer 👨🏻‍,React.js & Node.js  & GraphQL Enthusiast (Typescript preferred). 
 
