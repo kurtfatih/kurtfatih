@@ -4,7 +4,7 @@
 
 - :toolbox: I have been shaping the apps, professionally, for  3  years.
   - 💻 **OS**: MacOS / M1 Macbook.
-  - 🗒️ **Text Editor**: VIM + VSCode.
+  - 🗒️ **Text Editor**: VIM + VSCode (with Vim Extension).
 
 ## My Presence on the World Wide Web
 
