@@ -14,8 +14,8 @@
 
 ## Languages
 
--Turkish (native)
--English (fluent spoken)
+- Turkish (native)
+- English (fluent spoken)
 
 #### Quote
 
