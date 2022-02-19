@@ -12,6 +12,11 @@
 - [@Email](mailto:fatihkurt387@gmail.com)
 - [@LinkedIn](https://www.linkedin.com/in/fatih-kurt387/)
 
+## Languages
+
+Turkish (native)
+English (fluent spoken)
+
 #### Quote
 
 <blockquote> 
