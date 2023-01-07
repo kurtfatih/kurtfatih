@@ -8,6 +8,7 @@
 
 ## My Presence on the World Wide Web
 
+- [@Personal Website](https://fatih-kurt.com)
 - [@YouTube](https://www.youtube.com/channel/UCDyFIpOt_mOYvT_scc1MzcQ)
 - [@Email](mailto:fatihkurt387@gmail.com)
 - [@LinkedIn](https://www.linkedin.com/in/fatih-kurt387/)
