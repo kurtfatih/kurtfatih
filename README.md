@@ -1,8 +1,8 @@
-### Greetings! I am Fatih Kurt 22 y.o 👋 
+### Greetings! I am Fatih Kurt 23 y.o 👋 
 
 **I am a Full-Stack (mobile/web) app developer 👨🏻‍ React.js & Node.js  & GraphQL Enthusiast (Typescript preferred). 
 
-- :toolbox: I have been shaping the apps, professionally, for  3  years.
+- :toolbox: I have been shaping the apps, professionally, for  5  years.
   - 💻 **OS**: MacOS / M1 Macbook.
   - 🗒️ **Text Editor**: VIM + VSCode (with Vim Extension).
 
