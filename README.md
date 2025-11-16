@@ -2,7 +2,7 @@
 
 **I am a Full-Stack (mobile/web) app developer 👨🏻‍ React.js & Node.js  & GraphQL Enthusiast (Typescript preferred). 
 
-- :toolbox: I have been shaping the apps, professionally, for  5  years.
+- :toolbox: I have been shaping the apps, professionally, for  6  years.
   - 💻 **OS**: MacOS / M4 Macbook.
   - 🗒️ **Text Editor**: VIM + VSCode (with Vim Extension).
 
